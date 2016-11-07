@@ -1,0 +1,19 @@
+{
+  "name": "mod-server",
+  "version": "1.0.0",
+  "description": "Backend Server for a Mafia Moderator app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushlakers/mod-server.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kaushlakers/mod-server/issues"
+  },
+  "homepage": "https://github.com/kaushlakers/mod-server#readme"
+}
